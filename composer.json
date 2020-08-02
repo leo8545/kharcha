@@ -1,0 +1,17 @@
+{
+	"name": "sharjeel_ahmad/kharcha",
+	"description": "To calculate daily kharcha",
+	"authors": [
+		{
+			"name": "sharjeel",
+			"email": "leo8545@gmail.com"
+		}
+	],
+	"require": {
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	}
+}
